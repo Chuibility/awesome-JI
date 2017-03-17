@@ -5,6 +5,7 @@ An awesome list of the Joint Institute.
 
 ### Grand Masters
 
+- [zhangyifei-chelsea](https://github.com/zhangyifei-chelsea), the queen of dianyue, good at any courses you can find in JI.
 - [dbshch](https://github.com/dbshch), the unpreceeding and last grand master of UMJI, good at every technology you may imagine.
 - [JasonQSY](https://github.com/jasonqsy), an extremely experienced expert in front-end development and machine learning, currently enrolled at Umich.
 - [tonyfloatersu](https://github.com/tonyfloatersu), an extremely experienced expert in web full-stack development, machine learning, theory of computation, formal logic and functional programming.
