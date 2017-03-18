@@ -13,3 +13,4 @@ An awesome list of the Joint Institute.
 - [Realmonia](https://github.com/Realmonia), the only leader of UMJI.
 - [lyhdk7](https://github.com/lyhdk7), the greatest one before [dbshch](https://github.com/dbshch).
 - [songqun](https://github.com/songqun), just some guy.
+- [JasonQSY](https://github.com/JasonQSY), the greatest god in [Chibility](https://github.com/Chuibility/), studying on github 24 hours everyday, good at peeking and sneering at others' repos.
