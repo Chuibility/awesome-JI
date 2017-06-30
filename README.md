@@ -5,6 +5,7 @@ An awesome list of the Joint Institute.
 
 ### Grand Masters
 
+- [Reapor-Yurnero](https://github.com/Reapor-Yurnero), the leader of SSTIA (most of the Grnad Masters joined in it), an expert in web full-stack development, especilly in writing Rich (Fu) Text Editor.
 - [LukeXuan](https://github.com/orgs/Chuibility/people/LukeXuan), the king of formal methods.
 - [zhangyifei-chelsea](https://github.com/zhangyifei-chelsea), the queen of dianyue, good at any courses you can find in JI.
 - [dbshch](https://github.com/dbshch), the unpreceeding and last grand master of UMJI, good at every technology you may imagine.
