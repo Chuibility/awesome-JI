@@ -13,4 +13,4 @@ An awesome list of the Joint Institute.
 - [Johnson_Shen](https://github.com/chaogedebishi) currently enrolled at Umich.
 - [Realmonia](https://github.com/Realmonia), the only leader of UMJI.
 - [lyhdk7](https://github.com/lyhdk7), the greatest one before [dbshch](https://github.com/dbshch).
-- [songqun](https://github.com/songqun), just some guy, potentially good at English.
+- [songqun](https://github.com/songqun), just some guy, bely good at English.
